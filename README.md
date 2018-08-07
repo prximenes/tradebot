@@ -1,0 +1,2 @@
+-> Fase inicial projeto bot "robotrade" utilizando api da 'Bleutrade'
+-> No momento possivel consulta de saldo e transferencia de criptomoeda
